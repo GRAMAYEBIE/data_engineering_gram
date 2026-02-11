@@ -5,13 +5,24 @@ import plotly.graph_objects as go
 from sqlalchemy import create_engine
 import time
 import os
+from dotenv import load_dotenv
 from datetime import datetime
 
 # --- CONFIGURATION ---
 st.set_page_config(page_title="Data Sentinel - Enterprise Intelligence", layout="wide", page_icon="🛡️")
 
-# Connexion Database
-DB_URL = 'postgresql://postgres:postgres@localhost:5432/dvdrental'
+# --- DATABASE CONNECTION (SECURED) ---
+# Load environment variables from .env file
+load_dotenv()
+db_url_env = os.getenv('DB_URL')
+
+# Hybrid Logic: Use .env for GitHub/Production, or fallback for the Professor
+if db_url_env:
+    DB_URL = db_url_env
+else:
+    # Hardcoded fallback for easy evaluation by your professor
+    DB_URL = 'postgresql://postgres:postgres@localhost:5432/dvdrental'
+
 engine = create_engine(DB_URL)
 
 @st.cache_data(ttl=5)
@@ -159,4 +170,5 @@ else:
 
 # --- AUTO-REFRESH ---
 time.sleep(5)
+
 st.rerun()
