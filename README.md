@@ -71,7 +71,7 @@ The standardized delivery scripts required for final evaluation, designed to be 
 
 # Install dependencies
 
-pip install -r scripts/requirements.txt
+pip install -r requirements.txt
 
 
 # 3. Initialize Infrastructure & Data
@@ -283,6 +283,7 @@ Key Takeaways:
 - Actionable AI: Transformation of raw behavioral patterns into clear marketing strategies (Loyal vs. At-Risk segments).
 
 This pipeline proves that modern data architecture is not just about moving data—it's about creating a continuous loop of intelligence to drive proactive business decisions.
+
 
 
 
