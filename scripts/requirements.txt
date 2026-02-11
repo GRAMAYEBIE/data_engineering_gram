@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+psycopg2-binary
+pyarrow
+s3fs
+python-dotenv
+kafka-python
+scikit-learn
+streamlit

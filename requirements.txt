@@ -1,0 +1,17 @@
+pandas
+numpy
+pyspark
+psycopg2-binary
+sqlalchemy
+jupyter
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+streamlit
+python-dotenv
+boto3
+pyarrow
+kafka-python
+fastparquet
+s3fs

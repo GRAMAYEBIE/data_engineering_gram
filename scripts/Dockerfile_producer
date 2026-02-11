@@ -1,0 +1,8 @@
+FROM python:3.9-slim
+WORKDIR /app
+# On installe les outils nécessaires
+RUN pip install pandas kafka-python sqlalchemy psycopg2-binary
+# On copie tout le contenu du dossier scripts dans le conteneur
+COPY . .
+# On lance ton script producer
+CMD ["python", "producer.py"]

@@ -1,0 +1,600 @@
+customer_id,recency,frequency,monetary,cluster,segment_name
+1,176,32,93.68,2,Clients à Relancer
+2,175,27,82.73,2,Clients à Relancer
+3,176,26,85.74000000000001,2,Clients à Relancer
+4,176,22,63.78,1,Clients Occasionnels
+5,1,38,99.62,0,Clients Fidèles
+6,176,28,55.72,1,Clients Occasionnels
+7,178,33,98.67,2,Clients à Relancer
+8,176,24,69.76,1,Clients Occasionnels
+9,1,23,68.77000000000001,0,Clients Fidèles
+10,176,25,64.75,1,Clients Occasionnels
+11,1,24,67.76,0,Clients Fidèles
+12,175,28,67.72,1,Clients Occasionnels
+13,176,27,84.73,2,Clients à Relancer
+14,1,28,79.72,0,Clients Fidèles
+15,1,32,103.68,0,Clients Fidèles
+16,178,28,89.72,2,Clients à Relancer
+17,176,21,68.79,1,Clients Occasionnels
+18,179,22,73.78,1,Clients Occasionnels
+19,176,24,81.76,1,Clients Occasionnels
+20,176,30,85.7,2,Clients à Relancer
+21,1,35,96.65,0,Clients Fidèles
+22,1,22,79.78,0,Clients Fidèles
+23,1,30,83.7,0,Clients Fidèles
+24,176,25,70.75,1,Clients Occasionnels
+25,175,29,92.71000000000001,2,Clients à Relancer
+26,176,34,99.66000000000001,2,Clients à Relancer
+27,177,31,86.69,2,Clients à Relancer
+28,1,32,85.68,0,Clients Fidèles
+29,1,36,105.64,0,Clients Fidèles
+30,175,34,85.66,2,Clients à Relancer
+31,176,26,77.74000000000001,1,Clients Occasionnels
+32,177,29,92.71000000000001,2,Clients à Relancer
+33,1,21,66.79,0,Clients Fidèles
+34,177,24,71.76,1,Clients Occasionnels
+35,177,32,85.68,2,Clients à Relancer
+36,176,27,72.73,1,Clients Occasionnels
+37,175,23,58.77,1,Clients Occasionnels
+38,176,34,87.66,2,Clients à Relancer
+39,177,29,86.71000000000001,2,Clients à Relancer
+40,176,27,66.73,1,Clients Occasionnels
+41,1,25,84.75,0,Clients Fidèles
+42,1,30,77.7,0,Clients Fidèles
+43,1,24,87.76,0,Clients Fidèles
+44,1,26,89.74000000000001,0,Clients Fidèles
+45,175,27,92.73,2,Clients à Relancer
+46,176,34,113.66000000000001,2,Clients à Relancer
+47,175,22,65.78,1,Clients Occasionnels
+48,176,17,46.830000000000005,1,Clients Occasionnels
+49,177,28,93.72,2,Clients à Relancer
+50,175,35,112.65,2,Clients à Relancer
+51,177,33,98.67,2,Clients à Relancer
+52,1,29,72.71000000000001,0,Clients Fidèles
+53,1,30,93.7,0,Clients Fidèles
+54,176,29,94.71000000000001,2,Clients à Relancer
+55,176,22,83.78,1,Clients Occasionnels
+56,1,30,91.7,0,Clients Fidèles
+57,175,28,75.72,1,Clients Occasionnels
+58,1,27,82.73,0,Clients Fidèles
+59,175,27,80.73,1,Clients Occasionnels
+60,1,25,68.75,0,Clients Fidèles
+61,176,14,29.860000000000003,1,Clients Occasionnels
+62,176,23,60.77,1,Clients Occasionnels
+63,176,25,74.75,1,Clients Occasionnels
+64,1,33,70.67,0,Clients Fidèles
+65,178,22,61.78,1,Clients Occasionnels
+66,176,34,105.66000000000001,2,Clients à Relancer
+67,177,22,71.78,1,Clients Occasionnels
+68,176,22,65.78,1,Clients Occasionnels
+69,1,25,60.75,0,Clients Fidèles
+70,176,18,59.82,1,Clients Occasionnels
+71,175,30,99.7,2,Clients à Relancer
+72,177,30,75.7,2,Clients à Relancer
+73,1,24,79.76,0,Clients Fidèles
+74,175,27,64.73,1,Clients Occasionnels
+75,1,41,114.59,2,Clients à Relancer
+76,176,23,50.77,1,Clients Occasionnels
+77,176,28,65.72,1,Clients Occasionnels
+78,175,31,90.69000000000001,2,Clients à Relancer
+79,178,22,67.78,1,Clients Occasionnels
+80,1,30,89.7,0,Clients Fidèles
+81,175,22,69.78,1,Clients Occasionnels
+82,176,26,71.74000000000001,1,Clients Occasionnels
+83,1,25,72.75,0,Clients Fidèles
+84,176,33,102.67,2,Clients à Relancer
+85,179,23,64.77000000000001,1,Clients Occasionnels
+86,175,33,106.67,2,Clients à Relancer
+87,1,30,99.7,0,Clients Fidèles
+88,175,21,54.790000000000006,1,Clients Occasionnels
+89,175,32,91.68,2,Clients à Relancer
+90,176,28,75.72,1,Clients Occasionnels
+91,1,35,80.65,0,Clients Fidèles
+92,177,28,93.72,2,Clients à Relancer
+93,175,23,62.77,1,Clients Occasionnels
+94,1,21,54.790000000000006,0,Clients Fidèles
+95,178,18,53.82,1,Clients Occasionnels
+96,175,27,86.73,2,Clients à Relancer
+97,177,18,51.82,1,Clients Occasionnels
+98,176,25,72.75,1,Clients Occasionnels
+99,1,24,63.760000000000005,0,Clients Fidèles
+100,1,24,73.76,0,Clients Fidèles
+101,1,24,63.760000000000005,0,Clients Fidèles
+102,175,33,86.67,2,Clients à Relancer
+103,175,31,100.69000000000001,2,Clients à Relancer
+104,176,24,55.760000000000005,1,Clients Occasionnels
+105,176,26,79.74000000000001,1,Clients Occasionnels
+106,177,23,70.77000000000001,1,Clients Occasionnels
+107,1,30,89.7,0,Clients Fidèles
+108,1,30,99.7,0,Clients Fidèles
+109,176,26,71.74000000000001,1,Clients Occasionnels
+110,176,14,39.86,1,Clients Occasionnels
+111,1,26,67.74000000000001,0,Clients Fidèles
+112,176,30,95.7,2,Clients à Relancer
+113,176,29,76.71000000000001,2,Clients à Relancer
+114,1,33,112.67,0,Clients Fidèles
+115,1,30,67.7,0,Clients Fidèles
+116,177,27,80.73,1,Clients Occasionnels
+117,176,19,54.81,1,Clients Occasionnels
+118,176,21,60.790000000000006,1,Clients Occasionnels
+119,175,34,103.66000000000001,2,Clients à Relancer
+120,1,32,93.68,0,Clients Fidèles
+121,175,26,69.74000000000001,1,Clients Occasionnels
+122,177,32,87.68,2,Clients à Relancer
+123,176,24,57.760000000000005,1,Clients Occasionnels
+124,175,18,43.82,1,Clients Occasionnels
+125,177,32,101.68,2,Clients à Relancer
+126,175,28,85.72,2,Clients à Relancer
+127,176,24,71.76,1,Clients Occasionnels
+128,175,32,89.68,2,Clients à Relancer
+129,177,34,91.66000000000001,2,Clients à Relancer
+130,176,24,71.76,1,Clients Occasionnels
+131,175,30,93.7,2,Clients à Relancer
+132,175,28,69.72,1,Clients Occasionnels
+133,175,27,72.73,1,Clients Occasionnels
+134,175,23,66.77000000000001,1,Clients Occasionnels
+135,1,30,67.7,0,Clients Fidèles
+136,176,15,40.85,1,Clients Occasionnels
+137,175,39,126.61000000000001,2,Clients à Relancer
+138,176,34,85.66,2,Clients à Relancer
+139,176,27,76.73,1,Clients Occasionnels
+140,175,18,53.82000000000001,1,Clients Occasionnels
+141,175,32,101.68,2,Clients à Relancer
+142,1,26,61.74,0,Clients Fidèles
+143,175,22,69.78,1,Clients Occasionnels
+144,176,42,135.58,2,Clients à Relancer
+145,178,28,75.72,1,Clients Occasionnels
+146,175,29,98.71000000000001,2,Clients à Relancer
+147,175,34,89.66,2,Clients à Relancer
+148,176,46,147.54000000000002,2,Clients à Relancer
+149,176,26,75.74000000000001,1,Clients Occasionnels
+150,177,25,66.75,1,Clients Occasionnels
+151,175,27,70.73,1,Clients Occasionnels
+152,1,21,66.79,0,Clients Fidèles
+153,176,24,69.76,1,Clients Occasionnels
+154,176,30,97.7,2,Clients à Relancer
+155,1,25,86.75,0,Clients Fidèles
+156,176,25,70.75,1,Clients Occasionnels
+157,177,31,92.69,2,Clients à Relancer
+158,176,32,89.68,2,Clients à Relancer
+159,176,21,48.79,1,Clients Occasionnels
+160,175,27,76.73,1,Clients Occasionnels
+161,176,30,83.7,2,Clients à Relancer
+162,1,20,57.800000000000004,0,Clients Fidèles
+163,1,29,82.71000000000001,0,Clients Fidèles
+164,179,16,41.84,1,Clients Occasionnels
+165,175,21,64.79,1,Clients Occasionnels
+166,176,28,85.72,2,Clients à Relancer
+167,175,32,97.68,2,Clients à Relancer
+168,1,34,89.66000000000001,0,Clients Fidèles
+169,176,22,67.78,1,Clients Occasionnels
+170,176,26,83.74000000000001,1,Clients Occasionnels
+171,176,26,79.74000000000001,1,Clients Occasionnels
+172,175,33,96.67,2,Clients à Relancer
+173,175,29,86.71000000000001,2,Clients à Relancer
+174,175,21,68.79,1,Clients Occasionnels
+175,1,24,73.76,0,Clients Fidèles
+176,175,37,116.63000000000001,2,Clients à Relancer
+177,177,23,50.77,1,Clients Occasionnels
+178,1,39,134.61,2,Clients à Relancer
+179,175,29,90.71000000000001,2,Clients à Relancer
+180,1,23,64.77000000000001,0,Clients Fidèles
+181,1,34,113.66000000000001,0,Clients Fidèles
+182,177,26,69.74000000000001,1,Clients Occasionnels
+183,179,23,56.77,1,Clients Occasionnels
+184,176,23,62.77,1,Clients Occasionnels
+185,178,23,56.77,1,Clients Occasionnels
+186,1,31,86.69,0,Clients Fidèles
+187,175,28,93.72,2,Clients à Relancer
+188,1,25,86.75,0,Clients Fidèles
+189,175,22,67.78,1,Clients Occasionnels
+190,1,27,84.73,0,Clients Fidèles
+191,1,20,57.800000000000004,0,Clients Fidèles
+192,1,23,70.77000000000001,0,Clients Fidèles
+193,1,25,88.75,0,Clients Fidèles
+194,175,18,61.82000000000001,1,Clients Occasionnels
+195,175,19,58.81,1,Clients Occasionnels
+196,175,35,102.65,2,Clients à Relancer
+197,176,40,117.60000000000001,2,Clients à Relancer
+198,176,37,102.63000000000001,2,Clients à Relancer
+199,1,25,78.75,0,Clients Fidèles
+200,1,27,90.73,0,Clients Fidèles
+201,175,25,76.75,1,Clients Occasionnels
+202,176,26,67.74000000000001,1,Clients Occasionnels
+203,175,20,59.800000000000004,1,Clients Occasionnels
+204,176,35,112.65,2,Clients à Relancer
+205,176,18,51.82,1,Clients Occasionnels
+206,176,27,84.73,2,Clients à Relancer
+207,176,34,75.66,2,Clients à Relancer
+208,1,26,59.74,0,Clients Fidèles
+209,176,32,107.68,2,Clients à Relancer
+210,175,31,92.69,2,Clients à Relancer
+211,1,34,103.66000000000001,0,Clients Fidèles
+212,175,20,51.800000000000004,1,Clients Occasionnels
+213,1,28,89.72,0,Clients Fidèles
+214,1,31,86.69,0,Clients Fidèles
+215,1,26,75.74000000000001,0,Clients Fidèles
+216,1,23,74.77000000000001,0,Clients Fidèles
+217,176,23,74.77000000000001,1,Clients Occasionnels
+218,176,18,43.82,1,Clients Occasionnels
+219,1,26,69.74000000000001,0,Clients Fidèles
+220,176,27,82.73,2,Clients à Relancer
+221,177,28,77.72,2,Clients à Relancer
+222,178,21,50.79,1,Clients Occasionnels
+223,176,17,60.830000000000005,1,Clients Occasionnels
+224,175,22,47.78,1,Clients Occasionnels
+225,178,26,71.74000000000001,1,Clients Occasionnels
+226,175,21,62.790000000000006,1,Clients Occasionnels
+227,1,24,61.760000000000005,0,Clients Fidèles
+228,1,27,70.73,0,Clients Fidèles
+229,1,25,66.75,0,Clients Fidèles
+230,178,33,88.67,2,Clients à Relancer
+231,176,26,65.74000000000001,1,Clients Occasionnels
+232,176,25,68.75,1,Clients Occasionnels
+233,176,23,68.77000000000001,1,Clients Occasionnels
+234,1,26,75.74000000000001,0,Clients Fidèles
+235,177,25,74.75,1,Clients Occasionnels
+236,1,42,121.58000000000001,2,Clients à Relancer
+237,175,33,92.67,2,Clients à Relancer
+238,176,21,70.79,1,Clients Occasionnels
+239,178,34,103.66000000000001,2,Clients à Relancer
+240,176,26,87.74000000000001,2,Clients à Relancer
+241,176,34,81.66,2,Clients à Relancer
+242,177,32,93.68,2,Clients à Relancer
+243,177,24,61.760000000000005,1,Clients Occasionnels
+244,1,32,77.68,0,Clients Fidèles
+245,1,32,81.68,0,Clients Fidèles
+246,176,23,68.77000000000001,1,Clients Occasionnels
+247,176,22,71.78,1,Clients Occasionnels
+248,177,15,38.85,1,Clients Occasionnels
+249,177,23,74.77000000000001,1,Clients Occasionnels
+250,176,20,57.800000000000004,1,Clients Occasionnels
+251,1,31,94.69000000000001,0,Clients Fidèles
+252,1,22,51.78,0,Clients Fidèles
+253,176,29,90.71000000000001,2,Clients à Relancer
+254,176,32,89.68,2,Clients à Relancer
+255,177,18,49.82,1,Clients Occasionnels
+256,175,30,79.7,2,Clients à Relancer
+257,175,37,108.63000000000001,2,Clients à Relancer
+258,177,24,79.76,1,Clients Occasionnels
+259,176,32,109.68,2,Clients à Relancer
+260,177,31,76.69,2,Clients à Relancer
+261,176,26,77.74000000000001,1,Clients Occasionnels
+262,175,28,79.72,2,Clients à Relancer
+263,1,29,84.71000000000001,0,Clients Fidèles
+264,1,25,70.75,0,Clients Fidèles
+265,177,29,94.71000000000001,2,Clients à Relancer
+266,176,28,87.72,2,Clients à Relancer
+267,1,36,111.64,0,Clients Fidèles
+268,176,29,92.71000000000001,2,Clients à Relancer
+269,1,30,93.7,0,Clients Fidèles
+270,176,25,78.75,1,Clients Occasionnels
+271,176,18,45.82,1,Clients Occasionnels
+272,178,20,67.8,1,Clients Occasionnels
+273,176,35,106.65,2,Clients à Relancer
+274,1,35,106.65,0,Clients Fidèles
+275,176,30,75.7,2,Clients à Relancer
+276,175,28,87.72,2,Clients à Relancer
+277,176,32,101.68,2,Clients à Relancer
+278,175,26,69.74000000000001,1,Clients Occasionnels
+279,1,31,96.69000000000001,0,Clients Fidèles
+280,175,27,90.73,2,Clients à Relancer
+281,178,14,25.86,1,Clients Occasionnels
+282,1,27,66.73,0,Clients Fidèles
+283,175,28,71.72,1,Clients Occasionnels
+284,1,28,87.72,0,Clients Fidèles
+285,176,26,83.74000000000001,1,Clients Occasionnels
+286,176,27,76.73,1,Clients Occasionnels
+287,1,29,80.71000000000001,0,Clients Fidèles
+288,177,24,57.760000000000005,1,Clients Occasionnels
+289,177,30,93.7,2,Clients à Relancer
+290,179,28,75.72,1,Clients Occasionnels
+291,176,23,60.77,1,Clients Occasionnels
+292,177,27,86.73,2,Clients à Relancer
+293,176,31,102.69000000000001,2,Clients à Relancer
+294,175,26,79.74000000000001,1,Clients Occasionnels
+295,1,38,105.62,0,Clients Fidèles
+296,1,30,99.7,0,Clients Fidèles
+297,176,33,88.67,2,Clients à Relancer
+298,176,26,79.74000000000001,1,Clients Occasionnels
+299,177,30,91.7,2,Clients à Relancer
+300,1,31,90.69,0,Clients Fidèles
+301,176,21,64.79,1,Clients Occasionnels
+302,175,29,82.71000000000001,2,Clients à Relancer
+303,176,26,75.74000000000001,1,Clients Occasionnels
+304,177,26,73.74000000000001,1,Clients Occasionnels
+305,176,25,78.75,1,Clients Occasionnels
+306,175,32,101.68,2,Clients à Relancer
+307,176,30,95.7,2,Clients à Relancer
+308,176,25,78.75,1,Clients Occasionnels
+309,176,31,100.69000000000001,2,Clients à Relancer
+310,177,20,73.80000000000001,1,Clients Occasionnels
+311,175,23,74.77000000000001,1,Clients Occasionnels
+312,175,26,69.74000000000001,1,Clients Occasionnels
+313,176,23,64.77000000000001,1,Clients Occasionnels
+314,175,33,80.67,2,Clients à Relancer
+315,1,17,52.830000000000005,0,Clients Fidèles
+316,175,29,94.71000000000001,2,Clients à Relancer
+317,1,28,81.72,0,Clients Fidèles
+318,178,12,27.880000000000003,1,Clients Occasionnels
+319,176,30,87.7,2,Clients à Relancer
+320,176,20,59.800000000000004,1,Clients Occasionnels
+321,175,22,65.78,1,Clients Occasionnels
+322,176,28,89.72,2,Clients à Relancer
+323,176,31,82.69000000000001,2,Clients à Relancer
+324,1,25,72.75,0,Clients Fidèles
+325,177,22,73.78,1,Clients Occasionnels
+326,180,25,68.75,1,Clients Occasionnels
+327,1,26,77.74000000000001,0,Clients Fidèles
+328,175,23,64.77000000000001,1,Clients Occasionnels
+329,176,32,89.68,2,Clients à Relancer
+330,1,25,80.75,0,Clients Fidèles
+331,176,27,80.73,1,Clients Occasionnels
+332,176,28,77.72,2,Clients à Relancer
+333,176,27,72.73,1,Clients Occasionnels
+334,1,30,99.7,0,Clients Fidèles
+335,1,23,58.77,0,Clients Fidèles
+336,1,30,97.7,0,Clients Fidèles
+337,1,29,88.71000000000001,0,Clients Fidèles
+338,176,28,83.72,2,Clients à Relancer
+339,177,30,85.7,2,Clients à Relancer
+340,176,31,94.69000000000001,2,Clients à Relancer
+341,175,23,62.77,1,Clients Occasionnels
+342,175,32,99.68,2,Clients à Relancer
+343,175,25,70.75,1,Clients Occasionnels
+344,176,18,47.82,1,Clients Occasionnels
+345,176,23,80.77000000000001,1,Clients Occasionnels
+346,176,32,111.68,2,Clients à Relancer
+347,176,30,109.7,2,Clients à Relancer
+348,175,36,103.64,2,Clients à Relancer
+349,1,29,104.71000000000001,0,Clients Fidèles
+350,176,23,56.77,1,Clients Occasionnels
+351,176,24,61.760000000000005,1,Clients Occasionnels
+352,1,23,76.77000000000001,0,Clients Fidèles
+353,176,18,51.82,1,Clients Occasionnels
+354,1,36,93.64,0,Clients Fidèles
+355,1,20,47.800000000000004,0,Clients Fidèles
+356,176,30,85.7,2,Clients à Relancer
+357,175,26,67.74000000000001,1,Clients Occasionnels
+358,178,21,60.790000000000006,1,Clients Occasionnels
+359,1,25,68.75,0,Clients Fidèles
+360,176,34,103.66000000000001,2,Clients à Relancer
+361,1,31,68.69,0,Clients Fidèles
+362,177,32,101.68,2,Clients à Relancer
+363,176,29,100.71000000000001,2,Clients à Relancer
+364,176,23,76.77000000000001,1,Clients Occasionnels
+365,178,23,84.77000000000001,1,Clients Occasionnels
+366,1,37,106.63000000000001,0,Clients Fidèles
+367,178,22,73.78,1,Clients Occasionnels
+368,176,35,118.65,2,Clients à Relancer
+369,1,25,72.75,0,Clients Fidèles
+370,175,19,50.81,1,Clients Occasionnels
+371,176,35,102.65,2,Clients à Relancer
+372,176,34,105.66000000000001,2,Clients à Relancer
+373,1,35,96.65,0,Clients Fidèles
+374,1,28,79.72,0,Clients Fidèles
+375,176,24,85.76,1,Clients Occasionnels
+376,176,28,77.72,2,Clients à Relancer
+377,175,26,57.74,1,Clients Occasionnels
+378,177,19,60.81,1,Clients Occasionnels
+379,175,23,80.77000000000001,1,Clients Occasionnels
+380,176,36,85.64,2,Clients à Relancer
+381,176,35,84.65,2,Clients à Relancer
+382,175,24,73.76,1,Clients Occasionnels
+383,175,27,78.73,1,Clients Occasionnels
+384,176,25,64.75,1,Clients Occasionnels
+385,176,26,75.74000000000001,1,Clients Occasionnels
+386,175,29,82.71000000000001,2,Clients à Relancer
+387,177,26,65.74000000000001,1,Clients Occasionnels
+388,1,30,83.7,0,Clients Fidèles
+389,175,26,77.74000000000001,1,Clients Occasionnels
+390,176,33,116.67,2,Clients à Relancer
+391,178,30,71.7,2,Clients à Relancer
+392,178,23,60.77,1,Clients Occasionnels
+393,175,31,78.69000000000001,2,Clients à Relancer
+394,1,22,61.78,0,Clients Fidèles
+395,175,19,48.81,1,Clients Occasionnels
+396,176,27,62.730000000000004,1,Clients Occasionnels
+397,177,29,80.71000000000001,2,Clients à Relancer
+398,176,16,51.84,1,Clients Occasionnels
+399,176,21,62.790000000000006,1,Clients Occasionnels
+400,175,28,81.72,2,Clients à Relancer
+401,175,21,56.79,1,Clients Occasionnels
+402,176,20,59.800000000000004,1,Clients Occasionnels
+403,176,35,118.65,2,Clients à Relancer
+404,176,30,95.7,2,Clients à Relancer
+405,1,32,73.68,0,Clients Fidèles
+406,177,32,95.68,2,Clients à Relancer
+407,176,27,66.73,1,Clients Occasionnels
+408,176,30,91.7,2,Clients à Relancer
+409,177,23,64.77000000000001,1,Clients Occasionnels
+410,1,38,121.62,2,Clients à Relancer
+411,1,26,61.74,0,Clients Fidèles
+412,1,21,60.790000000000006,0,Clients Fidèles
+413,176,21,64.79,1,Clients Occasionnels
+414,176,25,76.75,1,Clients Occasionnels
+415,175,23,70.77000000000001,1,Clients Occasionnels
+416,176,31,80.69000000000001,2,Clients à Relancer
+417,1,25,74.75,0,Clients Fidèles
+418,175,30,83.7,2,Clients à Relancer
+419,176,25,68.75,1,Clients Occasionnels
+420,176,21,58.79,1,Clients Occasionnels
+421,1,27,96.73,0,Clients Fidèles
+422,1,26,67.74000000000001,0,Clients Fidèles
+423,176,26,87.74000000000001,2,Clients à Relancer
+424,1,30,83.7,0,Clients Fidèles
+425,175,26,79.74000000000001,1,Clients Occasionnels
+426,177,27,82.73,2,Clients à Relancer
+427,176,24,63.760000000000005,1,Clients Occasionnels
+428,182,20,45.800000000000004,1,Clients Occasionnels
+429,178,21,74.79,1,Clients Occasionnels
+430,177,22,55.78,1,Clients Occasionnels
+431,1,23,66.77000000000001,0,Clients Fidèles
+432,176,23,80.77000000000001,1,Clients Occasionnels
+433,176,25,90.75,2,Clients à Relancer
+434,176,27,86.73,2,Clients à Relancer
+435,177,25,66.75,1,Clients Occasionnels
+436,176,30,85.7,2,Clients à Relancer
+437,177,23,68.77000000000001,1,Clients Occasionnels
+438,1,33,98.67,0,Clients Fidèles
+439,175,36,105.64,2,Clients à Relancer
+440,1,22,71.78,0,Clients Fidèles
+441,1,28,85.72,0,Clients Fidèles
+442,176,32,91.68,2,Clients à Relancer
+443,176,22,67.78,1,Clients Occasionnels
+444,176,30,79.7,2,Clients à Relancer
+445,175,26,69.74000000000001,1,Clients Occasionnels
+446,175,31,84.69000000000001,2,Clients à Relancer
+447,175,29,76.71000000000001,2,Clients à Relancer
+448,1,29,86.71000000000001,0,Clients Fidèles
+449,177,20,59.800000000000004,1,Clients Occasionnels
+450,1,26,63.74,0,Clients Fidèles
+451,176,33,90.67,2,Clients à Relancer
+452,1,32,77.68,0,Clients Fidèles
+453,176,23,66.77000000000001,1,Clients Occasionnels
+454,176,33,112.67,2,Clients à Relancer
+455,176,24,65.76,1,Clients Occasionnels
+456,175,25,78.75,1,Clients Occasionnels
+457,1,28,81.72,0,Clients Fidèles
+458,176,19,44.81,1,Clients Occasionnels
+459,176,38,131.62,2,Clients à Relancer
+460,175,25,78.75,1,Clients Occasionnels
+461,176,28,69.72,1,Clients Occasionnels
+462,175,33,112.67,2,Clients à Relancer
+463,177,25,68.75,1,Clients Occasionnels
+464,175,16,41.84,1,Clients Occasionnels
+465,175,17,48.830000000000005,1,Clients Occasionnels
+466,175,23,72.77000000000001,1,Clients Occasionnels
+467,175,29,94.71000000000001,2,Clients à Relancer
+468,175,39,114.61,2,Clients à Relancer
+469,175,40,105.60000000000001,2,Clients à Relancer
+470,178,32,109.68,2,Clients à Relancer
+471,176,27,82.73,2,Clients à Relancer
+472,1,30,97.7,0,Clients Fidèles
+473,175,34,99.66,2,Clients à Relancer
+474,1,26,71.74000000000001,0,Clients Fidèles
+475,176,24,67.76,1,Clients Occasionnels
+476,1,22,69.78,0,Clients Fidèles
+477,175,22,81.78,1,Clients Occasionnels
+478,176,19,58.81,1,Clients Occasionnels
+479,1,31,90.69000000000001,0,Clients Fidèles
+480,176,22,63.78,1,Clients Occasionnels
+481,177,29,90.71000000000001,2,Clients à Relancer
+482,175,29,98.71000000000001,2,Clients à Relancer
+483,180,18,61.82000000000001,1,Clients Occasionnels
+484,175,30,97.7,2,Clients à Relancer
+485,180,29,76.71000000000001,2,Clients à Relancer
+486,178,26,83.74000000000001,1,Clients Occasionnels
+487,176,26,81.74000000000001,1,Clients Occasionnels
+488,176,22,69.78,1,Clients Occasionnels
+489,175,21,72.79,1,Clients Occasionnels
+490,176,24,91.76,2,Clients à Relancer
+491,176,27,96.73,2,Clients à Relancer
+492,175,16,49.84,1,Clients Occasionnels
+493,1,23,86.77000000000001,0,Clients Fidèles
+494,176,31,90.69000000000001,2,Clients à Relancer
+495,1,26,69.74000000000001,0,Clients Fidèles
+496,1,21,66.79,0,Clients Fidèles
+497,1,28,97.72,0,Clients Fidèles
+498,180,27,60.730000000000004,1,Clients Occasionnels
+499,176,30,85.7,2,Clients à Relancer
+500,175,28,79.72,2,Clients à Relancer
+501,176,21,64.79,1,Clients Occasionnels
+502,175,34,97.66000000000001,2,Clients à Relancer
+503,176,32,99.68,2,Clients à Relancer
+504,175,28,89.72,2,Clients à Relancer
+505,1,21,66.79,0,Clients Fidèles
+506,176,35,86.65,2,Clients à Relancer
+507,176,25,74.75,1,Clients Occasionnels
+508,1,25,74.75,0,Clients Fidèles
+509,175,20,71.80000000000001,1,Clients Occasionnels
+510,177,26,85.74000000000001,2,Clients à Relancer
+511,176,24,73.76,1,Clients Occasionnels
+512,1,26,81.74000000000001,0,Clients Fidèles
+513,176,31,104.69000000000001,2,Clients à Relancer
+514,176,22,57.78,1,Clients Occasionnels
+515,176,28,87.72,2,Clients à Relancer
+516,1,26,67.74000000000001,0,Clients Fidèles
+517,176,25,86.75,1,Clients Occasionnels
+518,176,26,81.74000000000001,1,Clients Occasionnels
+519,176,23,62.77,1,Clients Occasionnels
+520,175,32,95.68,2,Clients à Relancer
+521,1,23,52.77,0,Clients Fidèles
+522,175,33,110.67,2,Clients à Relancer
+523,177,22,65.78,1,Clients Occasionnels
+524,176,19,62.81,1,Clients Occasionnels
+525,1,19,50.81,0,Clients Fidèles
+526,175,45,138.55,2,Clients à Relancer
+527,1,24,51.760000000000005,0,Clients Fidèles
+528,175,25,76.75,1,Clients Occasionnels
+529,176,29,86.71000000000001,2,Clients à Relancer
+530,1,23,58.77,0,Clients Fidèles
+531,176,25,86.75,1,Clients Occasionnels
+532,1,32,97.68,0,Clients Fidèles
+533,1,33,94.67,0,Clients Fidèles
+534,1,24,57.760000000000005,0,Clients Fidèles
+535,175,32,91.68,2,Clients à Relancer
+536,175,25,82.75,1,Clients Occasionnels
+537,1,25,76.75,0,Clients Fidèles
+538,176,29,88.71000000000001,2,Clients à Relancer
+539,176,22,59.78,1,Clients Occasionnels
+540,175,24,83.76,1,Clients Occasionnels
+541,175,24,65.76,1,Clients Occasionnels
+542,177,18,59.82,1,Clients Occasionnels
+543,176,22,65.78,1,Clients Occasionnels
+544,176,22,63.78,1,Clients Occasionnels
+545,175,21,64.79,1,Clients Occasionnels
+546,176,25,72.75,1,Clients Occasionnels
+547,177,23,76.77000000000001,1,Clients Occasionnels
+548,1,19,50.81,0,Clients Fidèles
+549,178,20,61.800000000000004,1,Clients Occasionnels
+550,1,32,105.68,0,Clients Fidèles
+551,176,26,65.74000000000001,1,Clients Occasionnels
+552,176,21,64.79,1,Clients Occasionnels
+553,176,24,77.76,1,Clients Occasionnels
+554,176,22,75.78,1,Clients Occasionnels
+555,177,17,44.830000000000005,1,Clients Occasionnels
+556,176,21,52.790000000000006,1,Clients Occasionnels
+557,1,24,57.760000000000005,0,Clients Fidèles
+558,178,28,89.72,2,Clients à Relancer
+559,175,28,69.72,1,Clients Occasionnels
+560,1,30,91.7,0,Clients Fidèles
+561,1,27,64.73,0,Clients Fidèles
+562,175,25,72.75,1,Clients Occasionnels
+563,175,29,70.71000000000001,1,Clients Occasionnels
+564,177,24,59.760000000000005,1,Clients Occasionnels
+565,175,29,82.71000000000001,2,Clients à Relancer
+566,178,34,95.66000000000001,2,Clients à Relancer
+567,176,20,69.80000000000001,1,Clients Occasionnels
+568,1,21,60.790000000000006,0,Clients Fidèles
+569,175,32,101.68,2,Clients à Relancer
+570,1,26,71.74000000000001,0,Clients Fidèles
+571,175,24,81.76,1,Clients Occasionnels
+572,179,25,62.75,1,Clients Occasionnels
+573,180,29,76.71000000000001,2,Clients à Relancer
+574,176,28,83.72,2,Clients à Relancer
+575,175,29,98.71000000000001,2,Clients à Relancer
+576,1,34,107.66000000000001,0,Clients Fidèles
+577,175,27,72.73,1,Clients Occasionnels
+578,176,22,69.78,1,Clients Occasionnels
+579,1,27,68.73,0,Clients Fidèles
+580,175,27,68.73,1,Clients Occasionnels
+581,176,27,68.73,1,Clients Occasionnels
+582,1,25,72.75,0,Clients Fidèles
+583,178,23,74.77000000000001,1,Clients Occasionnels
+584,176,30,93.7,2,Clients à Relancer
+585,1,24,83.76,0,Clients Fidèles
+586,176,19,52.81,1,Clients Occasionnels
+587,1,26,81.74000000000001,0,Clients Fidèles
+588,176,29,94.71000000000001,2,Clients à Relancer
+589,175,28,89.72,2,Clients à Relancer
+590,1,25,82.75,0,Clients Fidèles
+591,179,27,92.73,2,Clients à Relancer
+592,1,29,74.71000000000001,0,Clients Fidèles
+593,177,26,71.74000000000001,1,Clients Occasionnels
+594,177,27,86.73,2,Clients à Relancer
+595,175,30,85.7,2,Clients à Relancer
+596,1,28,77.72,0,Clients Fidèles
+597,1,25,78.75,0,Clients Fidèles
+598,176,22,59.78,1,Clients Occasionnels
+599,176,19,60.81,1,Clients Occasionnels

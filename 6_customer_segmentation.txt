@@ -1,0 +1,49 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+
+df = pd.read_parquet("exports/tables/fact_rentals.parquet")
+
+print(f"Données chargées : {df.shape[0]} locations.")
+
+reference_date = df['rental_date'].max() + pd.Timedelta(days=1)
+
+# Agrégation par client
+customer_data = df.groupby('customer_id').agg({
+    'rental_date': lambda x: (reference_date - x.max()).days, # Recency
+    'rental_id': 'count',                                     # Frequency
+    'rental_rate': 'sum'                                      # Monetary
+}).rename(columns={
+    'rental_date': 'recency',
+    'rental_id': 'frequency',
+    'rental_rate': 'monetary'
+})
+
+print(customer_data.head())
+
+# 1. Mise à l'échelle
+scaler = StandardScaler()
+
+scaled_features = scaler.fit_transform(customer_data)
+
+# 2. Application de K-Means (on choisit 3 segments)
+kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
+customer_data['cluster'] = kmeans.fit_predict(scaled_features)
+
+# 3. Nommer les segments pour le rapport
+cluster_map = {0: 'Clients Fidèles', 1: 'Clients Occasionnels', 2: 'Clients à Relancer'}
+customer_data['segment_name'] = customer_data['cluster'].map(cluster_map)
+
+plt.figure(figsize=(10, 6))
+sns.scatterplot(data=customer_data, x='frequency', y='monetary', hue='segment_name', palette='viridis')
+plt.title('Segmentation des Clients DVD Rental')
+plt.show()
+
+# Sauvegarde du résultat final dans exports
+customer_data.to_csv("exports/results/customer_segmentation_results.csv", index=True)
+
+print("✅ Analysis successfully exported to exports/results/ml_customer_segments.csv")
+
+

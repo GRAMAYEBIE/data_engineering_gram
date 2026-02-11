@@ -1,0 +1,2 @@
+Total Rentals: 16044
+Average Rental Duration: 4.55 days

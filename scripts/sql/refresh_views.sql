@@ -1,0 +1,4 @@
+REFRESH MATERIALIZED VIEW mv_revenue_by_category;
+REFRESH MATERIALIZED VIEW mv_revenue_monthly;
+REFRESH MATERIALIZED VIEW mv_top_films;
+REFRESH MATERIALIZED VIEW mv_kpi_global;
