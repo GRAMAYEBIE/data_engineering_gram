@@ -154,6 +154,10 @@ I'm saving the data gold to postgres as my data warehouse
 
 #### For this project it's  optional to use the materialize views what is the best practise in data engineering 
 
+### you have to be in the pricipal file 
+
+- cd scripts
+- cd sql 
 - python .\refresh_gold_views.py
 
 I implemented two reading modes: a Batch/Audit mode using Materialized Views with indexing to maximize response speed on large historical volumes, and a Streaming mode that directly queries the Gold layer for immediate responsiveness to Kafka streams.
@@ -283,6 +287,7 @@ Key Takeaways:
 - Actionable AI: Transformation of raw behavioral patterns into clear marketing strategies (Loyal vs. At-Risk segments).
 
 This pipeline proves that modern data architecture is not just about moving data—it's about creating a continuous loop of intelligence to drive proactive business decisions.
+
 
 
 
